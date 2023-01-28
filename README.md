@@ -4,4 +4,3 @@
 4. [Configurar un playbook en Ansible](./modulo4.md)
 5. [Desplegar servicios en Ansible](./modulo5.md)
 6. [Referencias](./modulo6.md)
-7. [Vídeo tutorial](./video.md)
